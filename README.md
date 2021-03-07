@@ -29,7 +29,7 @@ You will also see any lint errors in the console.
  
  ### `python manage.py runserver`
  
- `Make sure that bother react and django server are running`
+ `Make sure that both react and django server are running`
  
  
  
