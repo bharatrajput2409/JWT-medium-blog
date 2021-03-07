@@ -27,7 +27,9 @@ You will also see any lint errors in the console.
  
  Install the required modules.
  
- ### python manage.py runserver
+ ### `python manage.py runserver`
+ 
+ `Make sure that bother react and django server are running`
  
  
  
